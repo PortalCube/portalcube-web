@@ -2,6 +2,7 @@ import styled from "styled-components";
 import ProfileImageSrc from "../assets/profile_image.png";
 import QuickLink from "../components/main/QuickLink.jsx";
 import MyInfo from "../components/main/MyInfo.jsx";
+import Menu from "../components/main/Menu.jsx";
 
 const Container = styled.div`
     height: 100%;
@@ -45,6 +46,7 @@ function MainPage() {
             </Title>
             <QuickLink />
             <MyInfo />
+            <Menu />
         </Container>
     );
 }
