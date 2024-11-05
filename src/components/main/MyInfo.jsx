@@ -52,7 +52,7 @@ const MY_INFO = [
     },
     {
         title: "ROLE",
-        subtitle: "대학 학부생",
+        subtitle: "학부생",
     },
     {
         title: "GOAL",
