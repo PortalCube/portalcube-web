@@ -1,7 +1,12 @@
 import { FaReact } from "react-icons/fa";
 import {
+    SiCplusplus,
+    SiCsharp,
     SiJavascript,
+    SiMongodb,
+    SiNodedotjs,
     SiReact,
+    SiThreedotjs,
     SiTypescript,
     SiUnity,
     SiVuedotjs,
@@ -72,21 +77,33 @@ const TAGS = [
     },
     {
         id: "C++",
-        icon: SiVuedotjs,
-        text: "Vue.js",
-        color: "#228f4c",
+        icon: SiCplusplus,
+        text: "C++",
+        color: "#318bc8",
+    },
+    {
+        id: "C#",
+        icon: SiCsharp,
+        text: "C#",
+        color: "#8151f1",
     },
     {
         id: "MONGODB",
-        icon: SiVuedotjs,
-        text: "Vue.js",
-        color: "#228f4c",
+        icon: SiMongodb,
+        text: "MongoDB",
+        color: "#097432",
     },
     {
         id: "NODE",
-        icon: SiVuedotjs,
-        text: "Vue.js",
-        color: "#228f4c",
+        icon: SiNodedotjs,
+        text: "node.js",
+        color: "#12e257",
+    },
+    {
+        id: "THREE",
+        icon: SiThreedotjs,
+        text: "three.js",
+        color: "#e7e7e7",
     },
 ];
 

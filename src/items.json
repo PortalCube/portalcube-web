@@ -1,0 +1,298 @@
+[
+    {
+        "id": 1,
+        "category": "WEB",
+        "title": "오디오 플레이어",
+        "subtitle": "2021. 10",
+        "description": "Typescript와 Howler.js를 사용하여 개발한 간단한 웹 오디오 플레이어입니다. 군 복무 기간에 심심풀이로 약 1달 동안 개발하였습니다.",
+        "tags": ["TS"],
+        "github": "https://github.com/PortalCube/ost-player",
+        "url": "https://ost-player.vercel.app/",
+        "thumbnailImage": "/images/ost-player/1.png",
+        "images": [
+            "/images/ost-player/1.png",
+            "/images/ost-player/2.png",
+            "/images/ost-player/3.png"
+        ]
+    },
+    {
+        "id": 2,
+        "category": "GAME",
+        "title": "therearemanybullets",
+        "subtitle": "2020. 07 ~ 2020. 11",
+        "description": "2020년도 씨애랑 SW Week 전시회 출품작입니다. 음악에 맞춰서 탄막이 발사되는 마우스 탄막 피하기 리듬 게임을 개발하였습니다.",
+        "tags": ["UNITY", "C#"],
+        "github": "https://github.com/PortalCube/therearemanybullets",
+        "url": "https://www.youtube.com/watch?v=aTNhpl_2w88",
+        "thumbnailImage": "/images/therearemanybullets/1.png",
+        "images": [
+            "/images/therearemanybullets/1.png",
+            "/images/therearemanybullets/2.png",
+            "/images/therearemanybullets/3.png",
+            "/images/therearemanybullets/4.png"
+        ]
+    },
+    {
+        "id": 3,
+        "category": "GAME",
+        "title": "Dimension-3",
+        "subtitle": "2023. 06",
+        "description": "C++를 사용하여 3D 레이캐스트 렌더링을 구현하였습니다. 유튜브에서 가이드 영상을 보면서 가볍게 구현만 해보았습니다.",
+        "tags": ["C++"],
+        "github": "https://github.com/PortalCube/Dimension-3",
+        "thumbnailImage": "/images/d3/1.png",
+        "images": ["/images/d3/1.png"]
+    },
+    {
+        "id": 4,
+        "category": "WEB",
+        "title": "2023 한림대학교 대동제 웹사이트",
+        "subtitle": "2023. 03 ~ 2023. 05",
+        "description": "한림대학교 멋쟁이사자처럼 멤버들과 함께 협업하며 개발하였습니다. 프론트엔드를 담당하였으며 부스 페이지, 시간표 페이지, 관리자 전용 페이지를 담당하였습니다.",
+        "tags": ["VUE", "JS"],
+        "github": "https://github.com/Hallym-LIKELION/HallymFestival2023-Frontend",
+        "thumbnailImage": "/images/2023festival/1.png",
+        "images": [
+            "/images/2023festival/1.png",
+            "/images/2023festival/2.png",
+            "/images/2023festival/3.png",
+            "/images/2023festival/4.png",
+            "/images/2023festival/5.png",
+            "/images/2023festival/6.png",
+            "/images/2023festival/7.png"
+        ]
+    },
+    {
+        "id": 5,
+        "category": "WEB",
+        "title": "2023 멋쟁이사자처럼 연합해커톤",
+        "subtitle": "2023. 08",
+        "description": "2023년 멋쟁이사자처럼 연합해커톤에서 개발한 프로젝트로, 반려동물을 위한 공동구매 플랫폼 웹서비스를 개발하였습니다. 프론트엔드를 담당하였으며 가계부 페이지, 마이펫 페이지, 부트페이 API를 활용한 결제 시스템을 담당하였습니다.",
+        "tags": ["REACT", "JS"],
+        "github": "https://github.com/Likelion-MainHackaton-2team",
+        "thumbnailImage": "/images/2023hackaton/1.png",
+        "images": [
+            "/images/2023hackaton/1.png",
+            "/images/2023hackaton/2.png",
+            "/images/2023hackaton/3.png",
+            "/images/2023hackaton/4.png",
+            "/images/2023hackaton/5.png",
+            "/images/2023hackaton/6.png"
+        ]
+    },
+    {
+        "id": 6,
+        "category": "WEB",
+        "title": "Re:Hab",
+        "subtitle": "2023. 08 ~ 2023. 12",
+        "description": "2023년 2학기 소프트웨어캡스톤디자인 출품작입니다. 비대면 재활 진료를 할 수 있는 플랫폼을 개발하였습니다. 환자의 재활 과제 할당, 재활 운동 등록, 브라우저에서 WebRTC와 웹캠을 활용한 과제 수강 기능을 개발하였습니다.",
+        "tags": ["REACT", "JS"],
+        "github": "https://github.com/sync-without-async",
+        "thumbnailImage": "/images/rehab/1.png",
+        "images": [
+            "/images/rehab/1.png",
+            "/images/rehab/2.png",
+            "/images/rehab/3.png",
+            "/images/rehab/4.png",
+            "/images/rehab/5.png",
+            "/images/rehab/6.png",
+            "/images/rehab/7.png"
+        ]
+    },
+    {
+        "id": 7,
+        "category": "WEB",
+        "title": "unionlive",
+        "subtitle": "2019. 11 ~ 2021. 03",
+        "description": "op.gg와 비슷하게 모바일 게임의 정보를 편리하게 제공 라이브 웹서비스를 약 2년간 개발 및 운영하였습니다. Node.js를 사용하여 게임 서버의 데이터를 MongoDB에 저장하는 백엔드 서비스, Twitter의 API를 활용하여 30분 단위로 데이터를 이미지로 시각화 하여 전송하는 자동화 봇, Vue를 사용하여 데이터를 사용자가 편리하게 접근할 수 있는 프론트엔드 웹사이트를 한번에 묶어서 개발하였습니다.",
+        "tags": ["TS", "MONGODB", "NODE", "VUE"],
+        "thumbnailImage": "/images/unionlive/1.png",
+        "images": [
+            "/images/unionlive/1.png",
+            "/images/unionlive/2.png",
+            "/images/unionlive/3.png",
+            "/images/unionlive/4.png",
+            "/images/unionlive/5.png",
+            "/images/unionlive/6.png",
+            "/images/unionlive/7.png"
+        ]
+    },
+    {
+        "id": 8,
+        "category": "GAME",
+        "title": "Guardian of Sanctuary",
+        "subtitle": "2023. 11 ~ 2023. 12",
+        "description": "2023년도 VR/AR/게임제작기초 수업의 기말 프로젝트 출품작입니다. 유니티 엔진을 활용하여 모바일 FPS 디펜스 게임을 개발하였습니다. ",
+        "tags": ["UNITY", "C#"],
+        "github": "https://github.com/PortalCube/Guardian-of-Sanctuary",
+        "url": "https://www.youtube.com/watch?v=p3EBhVLYf4M",
+        "thumbnailImage": "/images/guardian-of-sanctuary/1.jpg",
+        "images": [
+            "/images/guardian-of-sanctuary/1.jpg",
+            "/images/guardian-of-sanctuary/2.jpg",
+            "/images/guardian-of-sanctuary/3.jpg",
+            "/images/guardian-of-sanctuary/4.jpg"
+        ]
+    },
+    {
+        "id": 9,
+        "category": "WEB",
+        "title": "2024 구름톤 유니브 벚꽃톤",
+        "subtitle": "2024. 03",
+        "description": "2024년 구름에서 진행하는 연합해커톤인 벚꽃톤에서 개발한 프로젝트입니다. 점심, 저녁 식사 약속을 간편하게 생성할 수 있는 웹서비스를 개발했습니다. 타임테이블 컴포넌트, 캘린더 컴포넌트와 같은 약속 생성 페이지를 담당했습니다.",
+        "tags": ["REACT", "JS"],
+        "github": "https://github.com/9oormthon-univ/2024_BEOTKKOTTHON_TEAM_11_FE",
+        "thumbnailImage": "/images/2024goorm/1.png",
+        "images": [
+            "/images/2024goorm/1.png",
+            "/images/2024goorm/2.svg",
+            "/images/2024goorm/3.svg",
+            "/images/2024goorm/4.svg"
+        ]
+    },
+    {
+        "id": 10,
+        "category": "WEB",
+        "title": "Motus",
+        "subtitle": "2023. 09 ~ 2023. 11",
+        "description": "2023 공개SW 개발자대회 출품작입니다. 행동 유사도 솔루션을 오픈소스로 공개하여 다양한 프로젝트에 활용할 수 있도록 개발하는 것을 목표로 하였습니다. 시연용 프론트엔드 페이지를 개발하였습니다.",
+        "tags": ["REACT", "JS"],
+        "github": "https://github.com/MotuS-Web",
+        "thumbnailImage": "/images/motus/1.png",
+        "images": [
+            "/images/motus/1.png",
+            "/images/motus/2.gif",
+            "/images/motus/3.gif",
+            "/images/motus/4.gif",
+            "/images/motus/5.gif",
+            "/images/motus/6.gif"
+        ]
+    },
+    {
+        "id": 11,
+        "category": "GAME",
+        "title": "The Twins VR",
+        "subtitle": "2024. 04",
+        "description": "2024년 가상현실과증강현실 교과목의 중간 프로젝트 출품작입니다. Meta Quest 2를 이용한 PCVR 게임을 개발하였습니다. 양 손의 컨트롤러로 각각의 우주선을 조종하여 무수히 쏟아지는 드론들의 공격을 피하며 드론을 파괴하는 게임입니다.",
+        "tags": ["UNITY", "C#"],
+        "github": "https://github.com/PortalCube/The-Twins",
+        "url": "https://www.youtube.com/watch?v=rnN4t309V10",
+        "thumbnailImage": "/images/twinsvr/1.jpg",
+        "images": [
+            "/images/twinsvr/1.jpg",
+            "/images/twinsvr/2.jpg",
+            "/images/twinsvr/3.jpg"
+        ]
+    },
+    {
+        "id": 12,
+        "category": "WEB",
+        "title": "강원탐험대",
+        "subtitle": "2024. 06",
+        "description": "2024년 웹프로그래밍 교과목의 기말 프로젝트 출품작입니다. 강원도를 테마로하는 웹사이트로 강원도의 관광명소를 무대로 하는 Geoguessr 게임을 개발하였습니다. 네이버 지도 API를 활용하여 무작위로 주어지는 관광명소 로드뷰를 보고 위치나 이름를 알아맞추는 게임입니다.",
+        "tags": ["REACT", "JS"],
+        "thumbnailImage": "/images/shiro-project/1.png",
+        "images": [
+            "/images/shiro-project/1.png",
+            "/images/shiro-project/2.png",
+            "/images/shiro-project/3.png",
+            "/images/shiro-project/4.png",
+            "/images/shiro-project/5.png",
+            "/images/shiro-project/6.png",
+            "/images/shiro-project/7.png"
+        ]
+    },
+    {
+        "id": 13,
+        "category": "GAME",
+        "title": "Rin Engine",
+        "subtitle": "2024. 05 ~ 2024. 06",
+        "description": "2024년 컴퓨터그래픽스 교과목의 기말 프로젝트 출품작입니다. three.js를 사용하여 마인크래프트 스타일의 복쉘 엔진을 개발하였습니다. Perlin noise를 활용한 지형 생성 알고리즘, React를 활용한 게임 UI 시스템, drawcall 최적화를 위한 InstancedMesh를 비롯한 다양한 최적화 기법을 사용하여 보다 완성도 있는 게임 엔진을 개발하였습니다.",
+        "tags": ["THREE", "JS", "REACT"],
+        "github": "https://github.com/PortalCube/Project-Rin",
+        "url": "https://youtu.be/P3OcZvmpjtc",
+        "thumbnailImage": "/images/project-rin/1.png",
+        "images": [
+            "/images/project-rin/1.png",
+            "/images/project-rin/2.png",
+            "/images/project-rin/3.png",
+            "/images/project-rin/4.jpg"
+        ]
+    },
+    {
+        "id": 14,
+        "category": "WEB",
+        "title": "SmartLEAD+",
+        "subtitle": "Work In Progress (2024. 09 ~ )",
+        "subtitle_color": "#FFAB23",
+        "description": "SmartLEAD에서 불편한 부분을 강화하는 유저 확장프로그램입니다. 기존 SmartLEAD에 비해 더욱 깔끔한 디자인과 함께 학생들에게 절실히 필요한 다양한 기능을 제공할 예정입니다.",
+        "tags": ["REACT", "JS"],
+        "github": "https://github.com/PortalCube/SmartLEAD-Plus",
+        "thumbnailImage": "/images/smartleadplus/1.png",
+        "images": [
+            "/images/smartleadplus/1.png",
+            "/images/smartleadplus/2.png",
+            "/images/smartleadplus/3.png"
+        ]
+    },
+    {
+        "id": 15,
+        "category": "ETC",
+        "title": "추가 예정",
+        "subtitle": "-",
+        "description": "추후 추가 예정입니다.",
+        "tags": [],
+        "thumbnailImage": "https://placehold.co/600x400/EEE/31343C",
+        "images": null
+    },
+    {
+        "id": 16,
+        "category": "CONTEST",
+        "title": "2020 SW Week Coding Festival 은상",
+        "subtitle": "",
+        "description": "",
+        "tags": [],
+        "thumbnailImage": "https://placehold.co/600x400/EEE/31343C",
+        "images": null
+    },
+    {
+        "id": 17,
+        "category": "CONTEST",
+        "title": "2023 소프트웨어캡스톤경진대회 대상",
+        "subtitle": "",
+        "description": "",
+        "tags": [],
+        "thumbnailImage": "/images/contest/17.png",
+        "images": null
+    },
+    {
+        "id": 18,
+        "category": "CONTEST",
+        "title": "2024 SW중심대학 디지털 경진대회 SW부문 후원기업상",
+        "subtitle": "",
+        "description": "",
+        "tags": [],
+        "thumbnailImage": "/images/contest/18.png",
+        "images": null
+    },
+    {
+        "id": 19,
+        "category": "CONTEST",
+        "title": "2024 강원도 대학생 코딩 경진대회 우수상",
+        "subtitle": "",
+        "description": "",
+        "tags": [],
+        "thumbnailImage": "/images/contest/19.jpg",
+        "images": null
+    },
+    {
+        "id": 20,
+        "category": "CONTEST",
+        "title": "2024 강원SW페스티벌 포스터 전시 우수상",
+        "subtitle": "",
+        "description": "",
+        "tags": [],
+        "thumbnailImage": "https://placehold.co/600x400/EEE/31343C",
+        "images": null
+    }
+]
